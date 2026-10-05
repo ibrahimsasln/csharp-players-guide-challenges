@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="ColoredItems/ColoredItems.csproj" />
+  <Project Path="ExeptisGame/ExeptisGame.csproj" />
   <Project Path="HuntingTheManticore/HuntingTheManticore.csproj" />
   <Project Path="PackingInventory/PackingInventory.csproj" />
   <Project Path="RoomCoordinates/RoomCoordinates.csproj" />

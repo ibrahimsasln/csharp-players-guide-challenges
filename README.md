@@ -45,3 +45,7 @@ dotnet run --project ChallengeSolutionName
 **Colored Items:** Generics
 
 **The Fountain Objects:** OOP
+
+**The Feud:** Namespace, Using
+
+**Excepti's Game:** Error Handling and Exceptions
