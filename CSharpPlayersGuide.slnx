@@ -13,6 +13,7 @@
   <Project Path="TheLockedDoor/TheLockedDoor.csproj" />
   <Project Path="TheOldRobot/TheOldRobot.csproj" />
   <Project Path="ThePoint/ThePoint.csproj" />
+  <Project Path="TheSieve/TheSieve.csproj" />
   <Project Path="TicTacToe/TicTacToe.csproj" />
   <Project Path="VinFletchersArrows/VinFletchersArrows.csproj" />
   <Project Path="WarPreparations/WarPreparations.csproj" />

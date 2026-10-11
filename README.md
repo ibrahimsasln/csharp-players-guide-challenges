@@ -49,3 +49,5 @@ dotnet run --project ChallengeSolutionName
 **The Feud:** Namespace, Using
 
 **Excepti's Game:** Error Handling and Exceptions
+
+**The Sieve:** Delegates
